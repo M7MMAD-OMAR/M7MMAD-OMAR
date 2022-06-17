@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-
-
 - 🔭 I’m currently working on Front End
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me what food I like 😁
