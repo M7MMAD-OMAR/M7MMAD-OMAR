@@ -76,9 +76,13 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7MMAD-OMAR&langs_count=8&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7mmad-omar&theme=algolia" alt="m7mmad-omar" /></p>
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7MMAD-OMAR&langs_count=8&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
