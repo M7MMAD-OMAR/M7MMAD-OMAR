@@ -17,8 +17,6 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/m7mmad_0mar#gh-dark-mode-only)
 
 <br />
-<br />
-
 
 ### Languages and Tools:
 <hr />
@@ -36,7 +34,7 @@
 
 <br />
 <br />
-
+<br />
 
 
 
@@ -49,7 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7MMAD-OMAR&langs_count=8&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-<br />
+
 
 
 [twitter]: https://twitter.com/Ml761541515
