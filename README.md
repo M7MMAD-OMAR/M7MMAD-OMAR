@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me what food I like 😁
 - ⚡ Fun fact: The programming for this year is different from the rest of the past days 😶
-- 
+
 <br />
 
 ### Connect with me:
