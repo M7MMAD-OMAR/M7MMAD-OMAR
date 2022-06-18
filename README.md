@@ -1,11 +1,12 @@
 ### Hi there 👋
-<hr />
 
 - 🔭 I’m currently working on Front End
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me what food I like 😁
 - ⚡ Fun fact: The programming for this year is different from the rest of the past days 😶
 
+<br />
+<br />
 
 ### Connect with me:
 <hr />
@@ -16,6 +17,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://instagram.com/m7mmad_0mar#gh-dark-mode-only)
 
+<br />
+<br />
 
 ### Languages and Tools:
 <hr />
