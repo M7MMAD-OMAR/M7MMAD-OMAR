@@ -79,16 +79,21 @@
 <br />
 <br />
 
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m7mmad-omar&theme=algolia&show_icons=true)
-
+<div/>
+   
 <br />
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7mmad-omar&theme=algolia" alt="m7mmad-omar" /></p>
-
+<div/>
+   
 <br />
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<div/>
 
 
 
