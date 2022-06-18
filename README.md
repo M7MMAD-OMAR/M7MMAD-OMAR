@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me what food I like 😁
 - ⚡ Fun fact: The programming for this year is different from the rest of the past days 😶
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=M7MMAD-OMAR&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshshukla1608" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m7mmad-omar&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshshukla1608" /> </p>
 
 <br />
 
@@ -72,7 +72,7 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M7MMAD-OMAR&theme=algolia&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m7mmad-omar&theme=algolia&show_icons=true)
 
 <br />
 
@@ -80,8 +80,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7MMAD-OMAR&langs_count=8&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&langs_count=8&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -89,4 +88,4 @@
 [twitter]: https://twitter.com/Ml761541515
 [instagram]: https://instagram.com/m7mmad_0mar
 [linkedin]: https://linkedin.com/in/muhammad-h-937468205
-[githbu]: https://github.com/M7MMAD-OMAR 
+[githbu]: https://github.com/m7mmad-omar 
