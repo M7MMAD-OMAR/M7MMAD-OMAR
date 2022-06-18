@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me what food I like 😁
 - ⚡ Fun fact: The programming for this year is different from the rest of the past days 😶
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=M7MMAD-OMAR&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshshukla1608" /> </p>
 
 <br />
 
