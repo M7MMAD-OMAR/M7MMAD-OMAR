@@ -80,7 +80,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mamad-omar&layout=compact&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
