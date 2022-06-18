@@ -11,18 +11,11 @@
 ### Connect with me:
 <hr />
 
-[![website](./img/twitter-dark.svg)](https://twitter.com/Ml761541515#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/muhammad-h-937468205#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/m7mmad_0mar#gh-dark-mode-only)
 
-
-[![website](./img/twitter-light.svg)](https://twitter.com/Ml761541515#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/muhammad-h-937468205#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/m7mmad_0mar#gh-light-mode-only)
+[![Twitter](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Druhulaminparvez&suffix=%20Followers)](https://twitter.com/Ml761541515)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/muhammad-h-937468205/)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/m7mmad_0mar/)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:muhammadaaa727@gmail.com?subject=From%20GitHub&cc=muhammadaaa727@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 <br />
 
@@ -61,16 +54,6 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://www.facebook.com/m7mmad.omar)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.facebook.com/m7mmad.omar)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.facebook.com/m7mmad.omar)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.facebook.com/m7mmad.omar)
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://www.facebook.com/m7mmad.omar)
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://www.facebook.com/m7mmad.omar)
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.facebook.com/m7mmad.omar)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://www.facebook.com/m7mmad.omar)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.facebook.com/m7mmad.omar)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.facebook.com/m7mmad.omar) -->
 
 <br />
 <br />
@@ -78,10 +61,11 @@
 
 <br />
 <br />
+
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m7mmad-omar&theme=algolia&show_icons=true)
-<div/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m7mmad-omar&theme=algolia&show_icons=true" alt="m7mmad-omar" /></p>
+</div>   
    
 <br />
 
@@ -92,12 +76,12 @@
 <br />
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<div/>
-
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=true" alt="m7mmad-omar" /></p>
+</div> 
 
 
 [twitter]: https://twitter.com/Ml761541515
 [instagram]: https://instagram.com/m7mmad_0mar
 [linkedin]: https://linkedin.com/in/muhammad-h-937468205
 [githbu]: https://github.com/m7mmad-omar 
+
