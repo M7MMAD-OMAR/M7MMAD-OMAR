@@ -17,6 +17,13 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://instagram.com/m7mmad_0mar#gh-dark-mode-only)
 
+
+[![website](./img/twitter-light.svg)](https://twitter.com/Ml761541515#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/muhammad-h-937468205#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/m7mmad_0mar#gh-light-mode-only)
+
 <br />
 
 ### Languages and Tools:
