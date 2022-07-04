@@ -70,8 +70,10 @@
 <!-- <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m7mmad-omar&theme=algolia&show_icons=true" alt="m7mmad-omar" /></p>
 </div>    -->
+
+<div align="center">
 ![githbu](https://github-readme-stats.vercel.app/api?username=m7mmad-omar&theme=algolia&show_icons=true)
-   
+<div/>  
    
 <br />
 
@@ -81,9 +83,9 @@
    
 <br />
 
-
-![[githbu](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)]
-
+<div align="center">
+![githbu](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture)]
+<div/>
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture -->
 [twitter]: https://twitter.com/Ml761541515
