@@ -89,7 +89,7 @@
 
 <div align="center">
    
-![githbu](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture)(https://github-readme-stats.vercel.app/api?username=m7mmad-omar&theme=algolia&show_icons=true)
+![githbu](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture)
    
 <div/>
 
