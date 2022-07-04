@@ -74,13 +74,13 @@
 <br />
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7mmadomar&theme=algolia" alt="m7mmad-omar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7mmad-omar&theme=algolia" alt="m7mmad-omar" /></p>
 <div/>
    
 <br />
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmadomar&layout=compact&theme=algolia&show_icons=true" alt="m7mmad-omar" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=true" alt="m7mmad-omar" /></p>
 </div> 
 
 
