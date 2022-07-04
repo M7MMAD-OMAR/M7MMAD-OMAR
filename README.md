@@ -80,10 +80,10 @@
 <br />
 
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=true" alt="m7mmad-omar" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture -->
 [twitter]: https://twitter.com/Ml761541515
 [instagram]: https://instagram.com/m7mmad_0mar
 [linkedin]: https://linkedin.com/in/muhammad-h-937468205
