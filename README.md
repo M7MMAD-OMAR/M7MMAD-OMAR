@@ -70,7 +70,7 @@
 <!-- <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m7mmad-omar&theme=algolia&show_icons=true" alt="m7mmad-omar" /></p>
 </div>    -->
-![githbu](https://github-readme-stats.vercel.app/api?username=m7mmad-omar&theme=algoia&show_icons=true)
+![githbu](https://github-readme-stats.vercel.app/api?username=m7mmad-omar&theme=algolia&show_icons=true)
    
    
 <br />
@@ -82,7 +82,7 @@
 <br />
 
 
-![githbu](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)
+![[githbu](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)]
 
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture -->
