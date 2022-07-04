@@ -79,9 +79,9 @@
    
 <br />
 
-<div align="center">
+
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=true" alt="m7mmad-omar" /></p>
-</div> 
+
 
 
 [twitter]: https://twitter.com/Ml761541515
