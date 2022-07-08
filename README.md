@@ -1,20 +1,10 @@
-<pre align="center" size=5px">
-  MMMMMMMM               MMMMMMMM     77777777777777777777    MMMMMMMM               MMMMMMMM                    AAA                   DDDDDDDDDDDDD                       OOOOOOOOO          MMMMMMMM               MMMMMMMM                    AAA                     RRRRRRRRRRRRRRRRR   
-  M:::::::M             M:::::::M     7::::::::::::::::::7    M:::::::M             M:::::::M                   A:::A                  D::::::::::::DDD                  OO:::::::::OO        M:::::::M             M:::::::M                   A:::A                    R::::::::::::::::R  
-  M::::::::M           M::::::::M     7::::::::::::::::::7    M::::::::M           M::::::::M                  A:::::A                 D:::::::::::::::DD              OO:::::::::::::OO      M::::::::M           M::::::::M                  A:::::A                   R::::::RRRRRR:::::R 
-  M:::::::::M         M:::::::::M     777777777777:::::::7    M:::::::::M         M:::::::::M                 A:::::::A                DDD:::::DDDDD:::::D            O:::::::OOO:::::::O     M:::::::::M         M:::::::::M                 A:::::::A                  RR:::::R     R:::::R
-  M::::::::::M       M::::::::::M                7::::::7     M::::::::::M       M::::::::::M                A:::::::::A                 D:::::D    D:::::D           O::::::O   O::::::O     M::::::::::M       M::::::::::M                A:::::::::A                   R::::R     R:::::R
-  M:::::::::::M     M:::::::::::M               7::::::7      M:::::::::::M     M:::::::::::M               A:::::A:::::A                D:::::D     D:::::D          O:::::O     O:::::O     M:::::::::::M     M:::::::::::M               A:::::A:::::A                  R::::R     R:::::R
-  M:::::::M::::M   M::::M:::::::M              7::::::7       M:::::::M::::M   M::::M:::::::M              A:::::A A:::::A               D:::::D     D:::::D          O:::::O     O:::::O     M:::::::M::::M   M::::M:::::::M              A:::::A A:::::A                 R::::RRRRRR:::::R 
-  M::::::M M::::M M::::M M::::::M             7::::::7        M::::::M M::::M M::::M M::::::M             A:::::A   A:::::A              D:::::D     D:::::D          O:::::O     O:::::O     M::::::M M::::M M::::M M::::::M             A:::::A   A:::::A                R:::::::::::::RR  
-  M::::::M  M::::M::::M  M::::::M            7::::::7         M::::::M  M::::M::::M  M::::::M            A:::::A     A:::::A             D:::::D     D:::::D          O:::::O     O:::::O     M::::::M  M::::M::::M  M::::::M            A:::::A     A:::::A               R::::RRRRRR:::::R 
-  M::::::M   M:::::::M   M::::::M           7::::::7          M::::::M   M:::::::M   M::::::M           A:::::AAAAAAAAA:::::A            D:::::D     D:::::D          O:::::O     O:::::O     M::::::M   M:::::::M   M::::::M           A:::::AAAAAAAAA:::::A              R::::R     R:::::R
-  M::::::M    M:::::M    M::::::M          7::::::7           M::::::M    M:::::M    M::::::M          A:::::::::::::::::::::A           D:::::D     D:::::D          O:::::O     O:::::O     M::::::M    M:::::M    M::::::M          A:::::::::::::::::::::A             R::::R     R:::::R
-  M::::::M     MMMMM     M::::::M         7::::::7            M::::::M     MMMMM     M::::::M         A:::::AAAAAAAAAAAAA:::::A          D:::::D    D:::::D           O::::::O   O::::::O     M::::::M     MMMMM     M::::::M         A:::::AAAAAAAAAAAAA:::::A            R::::R     R:::::R
-  M::::::M               M::::::M        7::::::7             M::::::M               M::::::M        A:::::A             A:::::A       DDD:::::DDDDD:::::D            O:::::::OOO:::::::O     M::::::M               M::::::M        A:::::A             A:::::A         RR:::::R     R:::::R
-  M::::::M               M::::::M       7::::::7              M::::::M               M::::::M       A:::::A               A:::::A      D:::::::::::::::DD              OO:::::::::::::OO      M::::::M               M::::::M       A:::::A               A:::::A        R::::::R     R:::::R
-  M::::::M               M::::::M      7::::::7               M::::::M               M::::::M      A:::::A                 A:::::A     D::::::::::::DDD                  OO:::::::::OO        M::::::M               M::::::M      A:::::A                 A:::::A       R::::::R     R:::::R
-  MMMMMMMM               MMMMMMMM     77777777                MMMMMMMM               MMMMMMMM     AAAAAAA                   AAAAAAA    DDDDDDDDDDDDD                       OOOOOOOOO          MMMMMMMM               MMMMMMMM     AAAAAAA                   AAAAAAA      RRRRRRRR     RRRRRRR
+<pre align="center" style="font-size: 0.1em;"> 
+ __  __   _____   __  __      _      ____       ___  __  __    _    ____  
+|  \/  | |___  | |  \/  |    / \    |  _ \     / _ \|  \/  |  / \  |  _ \ 
+| |\/| |    / /  | |\/| |   / _ \   | | | |   | | | | |\/| | / _ \ | |_) |
+| |  | |   / /   | |  | |  / ___ \  | |_| |   | |_| | |  | |/ ___ \|  _ < 
+|_|  |_|  /_/    |_|  |_| /_/   \_\ |____/     \___/|_|  |_/_/   \_\_| \_\
+      
 </pre>
 
 <hr>
