@@ -103,9 +103,12 @@
 
 <div align="center">
    
-![githbu](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture)
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=M7MMAD-OMAR&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" 
+        alt="m7mmad-omar" /></p>
    
 <div/>
+   
+<br />
 
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture -->
