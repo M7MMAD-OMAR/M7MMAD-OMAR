@@ -1,15 +1,26 @@
-<pre align="center" > 
+<div align="center">
+
+<pre>
  __  __   _____   __  __      _      ____       ___  __  __    _    ____  
 |  \/  | |___  | |  \/  |    / \    |  _ \     / _ \|  \/  |  / \  |  _ \ 
 | |\/| |    / /  | |\/| |   / _ \   | | | |   | | | | |\/| | / _ \ | |_) |
 | |  | |   / /   | |  | |  / ___ \  | |_| |   | |_| | |  | |/ ___ \|  _ < 
 |_|  |_|  /_/    |_|  |_| /_/   \_\ |____/     \___/|_|  |_/_/   \_\_| \_\
-      
 </pre>
 
-<hr>
+<br/>
 
-<br>
+<a href=#><img src="contributions.svg"></a>
+
+</div>
+
+
+
+
+
+<hr/>
+
+<br/>
 
 
 ### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -26,23 +37,12 @@
 <hr />
 
 
-[![Twitter](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Druhulaminparvez&suffix=%20Followers)](https://twitter.com/Ml761541515)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/muhammad-h-937468205/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://linkedin.com/in/muhmad-haj-hmdo/)&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/m7mmad_0mar/)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:muhammadaaa727@gmail.com?subject=From%20GitHub&cc=muhammadaaa727@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 <br />
-
-### 
-<hr />
-
-<a href=#><img src="contributions.svg"></a>
-
-
-<br />
-<br />
-<br />
-
+ 
 <br />
 <br />
 
@@ -78,8 +78,7 @@
 
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=m7mmad-omar&layout=compact&theme=algolia&show_icons=ture -->
-[twitter]: https://twitter.com/Ml761541515
 [instagram]: https://instagram.com/m7mmad_0mar
-[linkedin]: https://linkedin.com/in/muhammad-h-937468205
+[linkedin]: https://linkedin.com/in/muhmad-haj-hmdo
 [githbu]: https://github.com/m7mmad-omar 
 
