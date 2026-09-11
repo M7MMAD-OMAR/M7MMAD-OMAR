@@ -1,12 +1,5 @@
 <div align="center">
-
-```
-__  __ _   _ _  _ __  __   _   ___
-|  \/  | | | | || |  \/  | /_\ |   \
-| |\/| | |_| | __ | |\/| |/ _ \| |) |
-|_|  |_|\___/|_||_|_|  |_/_/ \_\___/
-```
-
+  <img src="assets/muhmad-wordmark.png" alt="MUHMAD" width="421"/>
 </div>
 
 ## Projects
