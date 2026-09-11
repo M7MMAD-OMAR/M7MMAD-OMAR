@@ -1,8 +1,12 @@
 <div align="center">
 
-# Muhmad Omar
-
-Full stack developer. Building real products, one commit at a time.
+<pre>
+ __  __ _   _ _   _ __  __    _    ____
+|  \/  | | | | | | |  \/  |  / \  |  _ \
+| |\/| | | | | |_| | |\/| | / _ \ | | | |
+| |  | | |_| |  _  | |  | |/ ___ \| |_| |
+|_|  |_|\___/|_| |_|_|  |_/_/   \_\____/
+</pre>
 
 </div>
 
@@ -10,18 +14,12 @@ Full stack developer. Building real products, one commit at a time.
 
 ## Projects
 
-| | | |
-|---|---|---|
-| [![Sbarah](assets/sbarah-home.jpg)](https://sbarah.com) | [![i2s](assets/i2s-home.jpg)](https://i2s.sbarah.com) |
-| [![Eqfez](assets/eqfez-print.jpg)](https://www.eqfez.games) | [![Lubba](assets/lubba-icons.jpg)](https://lubba.sbarah.com) |
-
-<br/>
+| | |
+|---|---|
+| [![Sbarah](assets/sbarah-home.jpg)](https://sbarah.com) | [![Eqfez](assets/eqfez-print.jpg)](https://www.eqfez.games) |
+| [![Lubba](assets/lubba-icons.jpg)](https://lubba.sbarah.com) | |
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://linkedin.com/in/muhmad-haj-hmdo/)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/m7mmad_0mar/)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:m@muhmad.me)
 
 <img src="contributions.svg"/>
 
