@@ -86,7 +86,26 @@ I have done business analysis, design and development, sometimes all three on on
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,bun,react,tailwind,linux,docker,supabase,figma,git&theme=dark" alt="TypeScript, Python, Bun, React, Tailwind, Linux, Docker, Supabase, Figma, Git"/>
+  <img src="https://skillicons.dev/icons?i=ts,python,bun,react,tailwind,nodejs,postgres,supabase,docker,linux,git&theme=dark" alt="TypeScript, Python, Bun, React, Tailwind, Node.js, PostgreSQL, Supabase, Docker, Linux, Git"/>
+</div>
+
+<br/>
+
+## Where I design, and where I look
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Framer](https://img.shields.io/badge/Framer-1a1a1a?style=for-the-badge&logo=framer&logoColor=fff)
+![Webflow](https://img.shields.io/badge/Webflow-1a1a1a?style=for-the-badge&logo=webflow&logoColor=146EF5)
+![Blender](https://img.shields.io/badge/Blender-1a1a1a?style=for-the-badge&logo=blender&logoColor=E87D0D)
+
+[![Behance](https://img.shields.io/badge/Behance-1a1a1a?style=for-the-badge&logo=behance&logoColor=1769FF)](https://www.behance.net)
+[![Dribbble](https://img.shields.io/badge/Dribbble-1a1a1a?style=for-the-badge&logo=dribbble&logoColor=EA4C89)](https://dribbble.com)
+[![Pinterest](https://img.shields.io/badge/Pinterest-1a1a1a?style=for-the-badge&logo=pinterest&logoColor=BD081C)](https://www.pinterest.com)
+[![Awwwards](https://img.shields.io/badge/Awwwards-1a1a1a?style=for-the-badge&logo=awwwards&logoColor=fff)](https://www.awwwards.com)
+[![Inspora](https://img.shields.io/badge/Inspora-1a1a1a?style=for-the-badge&logoColor=fff)](https://www.inspora.design)
+
 </div>
 
 <br/>
