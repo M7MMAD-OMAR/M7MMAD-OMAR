@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="assets/muhmad-wordmark.png" alt="MUHMAD" width="421"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/muhmad-wordmark-dark.png"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/muhmad-wordmark-light.png"/>
+    <img src="assets/muhmad-wordmark-dark.png" alt="MUHMAD" width="421"/>
+  </picture>
   <br/><br/>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=8B8B8B&center=true&vCenter=true&width=520&lines=creative+eye%2C+logical+mind;business+analysis+%2B+design+%2B+code;built+with+AI%2C+every+day" alt="creative eye, logical mind"/>
 </div>
