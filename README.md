@@ -41,10 +41,28 @@ I have done business analysis, design and development, sometimes all three on on
 
 ## Projects
 
-| | |
-|---|---|
-| [![Sbarah](assets/sbarah-home.jpg)](https://sbarah.com) | [![i2s](assets/i2s-home.jpg)](https://i2s.sbarah.com) |
-| [![Sbar Orbit](assets/sbar-orbit.jpg)](https://github.com/M7MMAD-OMAR/sbar-orbit) | |
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://sbarah.com"><img src="assets/sbarah-home.jpg" alt="Sbarah"/></a>
+<br/><br/><b>Sbarah</b><br/>
+<sub>My home base. Where the finished work and the things I actually ship end up.</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://i2s.sbarah.com"><img src="assets/i2s-home.jpg" alt="i2s"/></a>
+<br/><br/><b>i2s</b><br/>
+<sub>Drop an image, get an editable SVG. Real paths instead of embedded pixels, so it scales without loss.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://orbit.sbarah.com"><img src="assets/sbar-orbit.jpg" alt="Sbar Orbit"/></a>
+<br/><br/><b>Sbar Orbit</b>&nbsp;<img src="https://cdn.simpleicons.org/opensourceinitiative/3DA639" width="13" alt="open source"/><br/>
+<sub>Gives an AI agent its own private browser or display, so it never touches your screen.</sub>
+</td>
+<td width="50%" align="center"></td>
+</tr>
+</table>
 
 <br/>
 
