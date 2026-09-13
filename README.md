@@ -86,7 +86,9 @@ I have done business analysis, design and development, sometimes all three on on
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,bun,react,tailwind,nodejs,postgres,supabase,docker,linux,git&theme=dark" alt="TypeScript, Python, Bun, React, Tailwind, Node.js, PostgreSQL, Supabase, Docker, Linux, Git"/>
+  <img src="https://skillicons.dev/icons?i=ts,python,bun,react,tailwind,nodejs,postgres,supabase,docker,linux,git,cloudflare,netlify&theme=dark" alt="TypeScript, Python, Bun, React, Tailwind, Node.js, PostgreSQL, Supabase, Docker, Linux, Git, Cloudflare, Netlify"/>
+  <br/><br/>
+  <a href="https://tanstack.com/start"><img src="https://img.shields.io/badge/TanStack%20Start-1a1a1a?style=for-the-badge&logo=tanstack&logoColor=ECE8D1" alt="TanStack Start"/></a>
 </div>
 
 <br/>
