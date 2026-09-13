@@ -5,12 +5,39 @@
     <img src="assets/muhmad-wordmark-dark.png" alt="MUHMAD" width="421"/>
   </picture>
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=8B8B8B&center=true&vCenter=true&width=520&lines=creative+eye%2C+logical+mind;business+analysis+%2B+design+%2B+code;built+with+AI%2C+every+day" alt="creative eye, logical mind"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=8B8B8B&center=true&vCenter=true&width=560&lines=creative+eye%2C+logical+mind;business+analysis+%2B+design+%2B+code;built+with+AI%2C+every+day" alt="creative eye, logical mind"/>
 </div>
 
-Most of my work lives at [sbarah.com](https://sbarah.com). Everything else here is a lab: forks, tools and half-ideas I keep around to try things and follow what is improving.
+<br/>
 
-I work with AI daily and treat it as a hands-on collaborator, not a shortcut. I have done business analysis, design and development, sometimes all three on one product from first sketch to release.
+Most of my finished work lives at **[sbarah.com](https://sbarah.com)**. Everything else here is a lab: tools, forks and half-ideas I keep around to test what is improving and what is noise. Some of these repositories will never ship to anyone. That is the point of them.
+
+I have done business analysis, design and development, sometimes all three on one product, from the first sketch to the release.
+
+<br/>
+
+## Where I stand
+
+<table>
+<tr>
+<td width="34" align="center"><img src="https://cdn.simpleicons.org/opensourceinitiative/3DA639" width="22" alt=""/></td>
+<td><b>Open source is the default, not the fallback.</b><br/>I use it, I read it, I file issues, and I publish what is worth publishing.</td>
+</tr>
+<tr>
+<td width="34" align="center"><img src="https://cdn.simpleicons.org/anthropic/CC785C" width="22" alt=""/></td>
+<td><b>AI is a tool I use daily, not a party trick.</b><br/>I run the models side by side, push them hard, and keep the ones that earn their place.</td>
+</tr>
+<tr>
+<td width="34" align="center"><img src="https://cdn.simpleicons.org/linux/8B8B8B" width="22" alt=""/></td>
+<td><b>No Microsoft, no Windows.</b><br/>I have no patience for that ecosystem. My machine runs Fedora and Hyprland, and it stays that way.</td>
+</tr>
+<tr>
+<td width="34" align="center"><img src="https://cdn.simpleicons.org/gnu/8B8B8B" width="22" alt=""/></td>
+<td><b>I do not idolize anyone.</b><br/>I respect the work, never the name on it. A good argument from a stranger beats a famous signature.</td>
+</tr>
+</table>
+
+<br/>
 
 ## Projects
 
@@ -19,8 +46,43 @@ I work with AI daily and treat it as a hands-on collaborator, not a shortcut. I 
 | [![Sbarah](assets/sbarah-home.jpg)](https://sbarah.com) | [![i2s](assets/i2s-home.jpg)](https://i2s.sbarah.com) |
 | [![Sbar Orbit](assets/sbar-orbit.jpg)](https://github.com/M7MMAD-OMAR/sbar-orbit) | |
 
+<br/>
+
+## Models I actually run
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,bun,react,linux,docker,supabase,figma&theme=dark" alt="TypeScript, Python, Bun, React, Linux, Docker, Supabase, Figma"/>
-  <br/><br/>
+
+![Claude](https://img.shields.io/badge/Claude-1a1a1a?style=for-the-badge&logo=claude&logoColor=CC785C)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1a1a1a?style=for-the-badge&logoColor=fff)
+![Gemini](https://img.shields.io/badge/Gemini-1a1a1a?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1a1a1a?style=for-the-badge&logo=deepseek&logoColor=4D6BFE)
+![Qwen](https://img.shields.io/badge/Qwen-1a1a1a?style=for-the-badge&logo=qwen&logoColor=6D5BD0)
+![Mistral](https://img.shields.io/badge/Mistral-1a1a1a?style=for-the-badge&logo=mistralai&logoColor=FA520F)
+![Ollama](https://img.shields.io/badge/Ollama-1a1a1a?style=for-the-badge&logo=ollama&logoColor=fff)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1a1a1a?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+
+</div>
+
+<br/>
+
+## Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,bun,react,tailwind,linux,docker,supabase,figma,git&theme=dark" alt="TypeScript, Python, Bun, React, Tailwind, Linux, Docker, Supabase, Figma, Git"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="contributions.svg" alt="contribution snake"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+If something here saved you an hour, buy me a coffee. If it did not, keep the coffee.
+
+<a href="https://www.buymeacoffee.com/m7mmadomar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="48"/></a>
+
 </div>
