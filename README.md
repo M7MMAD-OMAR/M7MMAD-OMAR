@@ -30,7 +30,7 @@ I have done business analysis, design and development, sometimes all three on on
 </tr>
 <tr>
 <td width="34" align="center"><img src="https://cdn.simpleicons.org/linux/8B8B8B" width="22" alt=""/></td>
-<td><b>No Microsoft, no Windows.</b><br/>I have no patience for that ecosystem. It fails at the basics, and it is not worth the trouble.</td>
+<td><b>🌵.</b><br/>I have no patience for that ecosystem. It fails at the basics, and it is not worth the trouble.</td>
 </tr>
 <tr>
 <td width="34" align="center"><img src="https://cdn.simpleicons.org/gnu/8B8B8B" width="22" alt=""/></td>
