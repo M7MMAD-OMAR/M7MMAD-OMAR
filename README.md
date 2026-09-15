@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=8B8B8B&center=true&vCenter=true&width=560&lines=creative+eye%2C+logical+mind;business+analysis+%2B+design+%2B+code;built+with+AI%2C+every+day" alt="creative eye, logical mind"/>
 </div>
 
-<div align="center">
-  <sub><i>I do not wrestle with pigs: we both get dirty, and only the pig enjoys it.</i></sub>
-</div>
 
 <br/>
 
