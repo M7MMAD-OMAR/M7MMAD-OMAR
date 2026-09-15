@@ -20,7 +20,7 @@ I have done business analysis, design and development, sometimes all three on on
 
 <br/>
 
-## Where I stand
+## Where I stand 👀 👀
 
 <table>
 <tr>
