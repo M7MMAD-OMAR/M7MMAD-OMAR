@@ -11,6 +11,10 @@
 
 <br/>
 
+**Muhmad Omar Haj Hmdo · محمد عمر حاج حمدو**
+
+Product designer and developer. Founder of **[Sbarah (صبارة)](https://sbarah.com)**, an Arabic design and AI studio. Personal site: **[muhmad.me](https://muhmad.me)**
+
 Most of my finished work lives at **[sbarah.com](https://sbarah.com)**. Everything else here is a lab: tools, forks and half-ideas I keep around to test what is improving and what is noise. Some of these repositories will never ship to anyone. That is the point of them.
 
 I have done business analysis, design and development, sometimes all three on one product, from the first sketch to the release.
@@ -46,7 +50,7 @@ I have done business analysis, design and development, sometimes all three on on
 <tr>
 <td width="50%" align="center">
 <a href="https://sbarah.com"><img src="assets/sbarah-home.jpg" alt="Sbarah"/></a>
-<br/><br/><b>Sbarah</b><br/>
+<br/><br/><b>Sbarah · صبارة</b><br/>
 <sub>My home base. Where the finished work and the things I actually ship end up.</sub>
 </td>
 <td width="50%" align="center">
